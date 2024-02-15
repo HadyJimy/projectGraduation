@@ -1,2 +1,2 @@
 # projectGraduation
-Mern
+project graduation using node js and express to complete the backend 
